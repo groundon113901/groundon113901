@@ -1,5 +1,8 @@
 ### Hi there 👋
 
+My name is Justin, I am Sydney based Web Application Developer and Integration Specialist 
+
+Please feel free to take a look at my Uni porjects and Personal Projects.
 <!--
 **groundon113901/groundon113901** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
